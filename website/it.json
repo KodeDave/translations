@@ -5,7 +5,7 @@
 		"french": "Francese",
 		"italian": "Italiano",
 		"chooseLanguage": "Scegli la tua lingua",
-		"currentLanguage": "Inglese",
+		"currentLanguage": "Italiano",
 		"secureEmail": "Email Sicura",
 		"about": "Riguardo",
 		"security": "Sicurezza",
@@ -21,9 +21,13 @@
 		"forSupportInquiries": "Per richieste di supporto, si prega di visitare il sito",
 		"forSecurityDiscussion": "Per discussioni relative alla sicurezza",
 		"footerCopyright": "&copy; 2016 Proton Technologies AG. Tutti i diritti riservati.",
+		"security":"Sicurezza",
 		"imprints": "Imprint",
 		"privacyPolicy": "Politica sulla riservatezza",
 		"termsAndConditions": "Termini &amp; Condizioni",
+		"transparencyReport": "Rapporto su trasparenza",
+		"pricing":"Costi",
+		"support":"Supportaci",
 		"team": "Team",
 		"feedbackForum": "Feedback Forum"
 	},
@@ -65,6 +69,7 @@
 		"storySubTitle": "Siamo scienziati, ingegneri e sviluppatori che lavorano per proteggere le libertà civili <br> on-line.",
 		"storyDetails1": "ProtonMail è stata fondata nel 2013 da scienziati che si sono incontrati presso il CERN e hanno elaborato insieme una visione condivisa di un Internet più sicuro e privato. Da allora, ProtonMail si è evoluta in uno sforzo globale per proteggere le libertà civili e costruire un Internet più sicuro, con i membri del team provenienti anche da Caltech, Harvard, l'ETH di Zurigo e molti altri istituti di ricerca.",
 		"storyDetails2": "Oggi, aiutiamo la nostra comunità di oltre mezzo milione di utenti a proteggere i loro dati privati on-line. Più di 10.000 sostenitori ci hanno aiutato in questa missione con la donazione per rendere possibile questo progetto. Grazie al vostro sostegno, stiamo continuando a migliorare la privacy della posta elettronica e le tecnologie di sicurezza dal nostro punto di partenza di Ginevra, Svizzera.",
+		"meetTeam":"Conosci la nostra squadra",
 		"joinUs": "Unisciti a noi",
 		"mapTitle": "<span>Con sede in Svizzera</span><span>con supporto globale</span>",
 		"donatePaypal": "Dona",
@@ -73,6 +78,7 @@
 		"recentNews": "Notizie recenti",
 		"partnersTitle": "Partners e Sponsors"
 	},
+
 	"about": {
 		"title": "Stiamo <span>costruendo</span> un <span>internet</span> che <span>protegge la privacy</span>, a partire dalle e-mail.",
 		"info": "<p>Siamo scienziati, ingegneri e sviluppatori che condividono la visione di proteggere le libertà civili online. Questo è il motivo per cui abbiamo creato ProtonMail, un servizio di posta elettronica sicura, facile da usare, con la crittografia integrata end-to-end ed uno stato delle funzioni di sicurezza avanzato. Il nostro obiettivo è quello di costruire un internet che rispetti la privacy e sia sicuro contro gli attacchi informatici.</p><p>Siamo impegnati a sviluppare e distribuire ampiamente gli strumenti necessari per proteggere i dati on-line. Il nostro team unisce profonda conoscenza matematica e conoscenze tecniche da parte delle istituzioni superiori di ricerca del mondo, con esperienza nella costruzione di interfacce che possano essere utilizzate con facilità dall’utente. Insieme, stiamo costruendo le tecnologie di comunicazione criptata del futuro.</p>",
@@ -82,5 +88,6 @@
 		"joinSubTitle": "Siamo alla ricerca di persone di talento interessate a costruire un internet più sicuro e privato.",
 		"openPositions": "Consulta le nostre posizioni aperte",
 		"companyInfo": "<p>Da quando il nostro team di fondatori si è formato al CERN e ha creato ProtonMail, Proton Technologies AG è diventata leader globale nella sicurezza online. Oggi, siamo il più grande fornitore di posta elettronica sicura al mondo con oltre mezzo milione di utenti. Oltre alla nostra sede centrale a Ginevra, Svizzera, abbiamo centri di assistenza a San Francisco, CA, e Skopje, Macedonia. La nostra presenza globale ci consente di fornire supporto 24/7 e il monitoraggio delle applicazioni mission critical per tutti i nostri clienti.</p><p>Riteniamo che la privacy e la sicurezza siano valori universali che vanno oltre le frontiere. Inclusione e diversità sono valori fondamentali dell'azienda. Collettivamente, il nostro team di esperti di tutto il mondo parla inglese, francese, tedesco, italiano, spagnolo, ceco, macedone, cinese e russo.</p><p><p>ProtonMail è supportata da più di 10.000 persone provenienti da tutto il mondo che hanno partecipato al nostro record di <a href=\"http://igg.me/projects/protonmail\" target=\"_blank\">crowdfunding</a>.Altri sostenitori sono <a href=\"http://www.crv.com/\" target=\"_blank\"> Charles River Ventures </a> and the <a href=\"http://www.fongit.ch/\" target=\"_blank\">Fondation Genevoise pour l'Innovation Technologique</a> (FONGIT), una fondazione senza scopo di lucro finanziata dal <a href=\"https://www.kti.admin.ch/kti/en/home.html\" target=\"_blank\">Swiss Federal Commission for Technology and Innovation</a> per il bene pubblico. Fruiamo anche della consulenza del <a href=\"http://vms.mit.edu/\" target=\"_blank\">MIT Venture Mentoring Service</a>.</p></p>"
+
 	}
 }
